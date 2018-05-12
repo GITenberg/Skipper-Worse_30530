@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1119
     wikipedia: http://en.wikipedia.org/wiki/William_Allen_Neilson
 description: Roman om et norsk handelshus historie
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30530#Skipper-Worse
 gutenberg_issued: '2009-11-23'
 gutenberg_type: Text
 identifiers:
